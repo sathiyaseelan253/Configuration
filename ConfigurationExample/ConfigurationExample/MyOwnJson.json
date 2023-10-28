@@ -1,0 +1,6 @@
+{
+  "APIKeys": {
+    "ClientID": "ClientID from MyOwnJson.Json",
+    "ClientSecret": "ClientSecret from MyOwnJson.Json"
+  }
+}
